@@ -1,5 +1,5 @@
 
-## Version 1.1 - [10/15/2024]
+## Version 1.2 - [12/08/2024]
 
 ### Fixed
 - Corrected the GitHub repository link in the `README.md` file to point to the correct project.
