@@ -12,4 +12,4 @@ This submission contains my implementation of a calculator project that performs
 - **StackOverflow**: I used StackOverflow to find solutions for handling exceptions in Java, which enhanced the error handling in my code.
 
 ## GitHub Repository
-[My GitHub Repository](git@github.com:moistr203/csc207-mini-project-1.git)
+https://github.com/moistr203/m-project-2

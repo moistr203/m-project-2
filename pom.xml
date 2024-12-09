@@ -32,13 +32,6 @@
                 <version>3.2.2</version>
             </plugin>
 
-            <!-- Failsafe Plugin for integration tests -->
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-failsafe-plugin</artifactId>
-                <version>3.2.2</version>
-            </plugin>
-
             <!-- Maven Exec Plugin for running main class -->
             <plugin>
                 <groupId>org.codehaus.mojo</groupId>
@@ -55,8 +48,7 @@
                 <artifactId>maven-checkstyle-plugin</artifactId>
                 <version>3.4.0</version>
                 <configuration>
-                    <!-- Use a default Checkstyle file if no specific configuration is available -->
-                    <configLocation>sun_checks.xml</configLocation>
+                    <configLocation>google_checks.xml</configLocation>
                 </configuration>
             </plugin>
 
